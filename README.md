@@ -1,6 +1,6 @@
 # :smile: JojiIto
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo João Guilherme Soares Ramos, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio na Erem Santos Dumont. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU.
 
